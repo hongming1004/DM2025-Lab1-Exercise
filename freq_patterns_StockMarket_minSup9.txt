@@ -1,0 +1,5 @@
+why:9
+way:9
+want:9
+than:9
+other:10

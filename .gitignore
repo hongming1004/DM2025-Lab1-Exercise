@@ -9,9 +9,3 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore VS Code settings
 .vscode/
-
-# Ignore text files
-*.txt
-
-# Ignore CSV files
-*.csv
